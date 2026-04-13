@@ -23,7 +23,7 @@
 ## 📂 프로젝트
 
 ### 👤 개인 프로젝트
-
+[떠내려가는 일기-기억의 강물](https://github.com/danlacode/River-of-Memories/tree/main)
 
 
 <br>
